@@ -26,7 +26,7 @@ export const testimonials: Testimonial[] = [
     date: "Mars 2024",
     rating: 5,
     comment:
-      "Soirée exceptionnelle pour mes 30 ans ! Max a mixé pendant 5h sans jamais laisser la piste se vider. Les jeux de lumières étaient top, l'ambiance était incroyable. Je recommande les yeux fermés !",
+      "Soirée exceptionnelle pour mes 30 ans ! Fred a mixé pendant 5h sans jamais laisser la piste se vider. Les jeux de lumières étaient top, l'ambiance était incroyable. Je recommande les yeux fermés !",
     avatar: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&q=80",
   },
   {
@@ -36,7 +36,7 @@ export const testimonials: Testimonial[] = [
     date: "Septembre 2024",
     rating: 5,
     comment:
-      "Un professionnalisme sans faille du premier contact jusqu'à la fin de la soirée. Max avait pris le temps de bien comprendre nos goûts musicaux et le résultat était parfait. Nos invités ont adoré !",
+      "Un professionnalisme sans faille du premier contact jusqu'à la fin de la soirée. Fred avait pris le temps de bien comprendre nos goûts musicaux et le résultat était parfait. Nos invités ont adoré !",
     avatar: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=100&q=80",
   },
   {
@@ -56,7 +56,7 @@ export const testimonials: Testimonial[] = [
     date: "Juillet 2024",
     rating: 5,
     comment:
-      "On a organisé un EVJF surprise et Max a fait le show ! Il a animé toute la soirée avec énergie et bonne humeur. Les animations sont sympas, l'ambiance était au top. La future mariée a adoré !",
+      "On a organisé un EVJF surprise et Fred a fait le show ! Il a animé toute la soirée avec énergie et bonne humeur. Les animations sont sympas, l'ambiance était au top. La future mariée a adoré !",
     avatar: "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=100&q=80",
   },
   {

@@ -5,9 +5,9 @@ import CtaSection from "@/components/sections/CtaSection";
 import { testimonials } from "@/data/testimonials";
 
 export const metadata: Metadata = {
-  title: "Avis Clients — DJ Max",
+  title: "Avis Clients — FredMusic",
   description:
-    "Découvrez les témoignages de mes clients pour mariages, anniversaires et événements d'entreprise. DJ Max noté 5/5.",
+    "Découvrez les témoignages de mes clients pour mariages, anniversaires et événements d'entreprise. FredMusic noté 5/5.",
 };
 
 export default function AvisPage() {
@@ -31,7 +31,7 @@ export default function AvisPage() {
         <SectionTitle
           tag="Témoignages"
           title="Ils m'ont fait confiance"
-          subtitle="La satisfaction de mes clients est ma priorité absolue. Voici ce qu'ils disent de leurs expériences avec DJ Max."
+          subtitle="La satisfaction de mes clients est ma priorité absolue. Voici ce qu'ils disent de leurs expériences avec FredMusic."
         />
       </section>
 

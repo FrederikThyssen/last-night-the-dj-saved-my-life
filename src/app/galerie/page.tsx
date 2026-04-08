@@ -4,7 +4,7 @@ import GalleryClient from "@/components/sections/GalleryClient";
 import CtaSection from "@/components/sections/CtaSection";
 
 export const metadata: Metadata = {
-  title: "Galerie — DJ Max",
+  title: "Galerie — FredMusic",
   description:
     "Découvrez les photos de mes prestations : mariages, anniversaires, soirées privées et événements d'entreprise.",
 };

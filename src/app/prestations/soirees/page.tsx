@@ -4,7 +4,7 @@ import PrestationPageLayout from "@/components/sections/PrestationPageLayout";
 import { notFound } from "next/navigation";
 
 export const metadata: Metadata = {
-  title: "Soirées & Fêtes — DJ Max",
+  title: "Soirées & Fêtes — FredMusic",
   description:
     "DJ pour soirées privées, EVJF, EVG, fêtes entre amis en Île-de-France. Ambiance garantie ! Devis gratuit.",
 };

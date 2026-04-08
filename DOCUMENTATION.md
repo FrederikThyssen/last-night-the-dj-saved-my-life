@@ -1,4 +1,4 @@
-# DJ Max — Documentation du POC
+# FredMusic — Documentation du POC
 
 ## Table des matières
 

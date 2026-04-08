@@ -36,7 +36,7 @@ export default function AboutSection() {
             <div className="relative h-[500px] rounded-2xl overflow-hidden">
               <Image
                 src="https://images.unsplash.com/photo-1571266028243-3716f02d2d2e?w=800&q=80"
-                alt="DJ Max en action"
+                alt="FredMusic en action"
                 fill
                 className="object-cover"
                 sizes="(max-width: 1024px) 100vw, 50vw"
@@ -63,7 +63,7 @@ export default function AboutSection() {
               centered={false}
             />
             <p className="mt-6 text-gray-400 leading-relaxed">
-              Je m'appelle Max, DJ professionnel basé à Paris. Depuis plus de 7 ans, je
+              FredMusic, DJ professionnel basé à Vis en artois. Depuis plus de 7 ans, je
               mets mon amour de la musique au service de vos moments les plus précieux.
               Mariage, anniversaire, soirée privée ou événement d'entreprise — chaque
               prestation est unique, préparée avec soin et passion.

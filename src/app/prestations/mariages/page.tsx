@@ -4,7 +4,7 @@ import PrestationPageLayout from "@/components/sections/PrestationPageLayout";
 import { notFound } from "next/navigation";
 
 export const metadata: Metadata = {
-  title: "Mariages — DJ Max",
+  title: "Mariages — FredMusic",
   description:
     "DJ professionnel pour votre mariage en Île-de-France. Prestation sur-mesure pour un jour inoubliable. Devis gratuit.",
 };

@@ -37,7 +37,7 @@ export const galleryItems: GalleryItem[] = [
   },
   {
     id: "5",
-    src: "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=800&q=80",
+    src: "https://static.wixstatic.com/media/1c8254_e78aa1b657014274b016378b49f5ae49~mv2.jpg/v1/fill/w_1796,h_858,al_c,q_85,enc_avif,quality_auto/1c8254_e78aa1b657014274b016378b49f5ae49~mv2.jpg",
     alt: "Console DJ professionnelle en action",
     category: "soiree",
     caption: "Festival privé - Marseille, août 2024",

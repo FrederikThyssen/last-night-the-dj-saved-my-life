@@ -3,7 +3,7 @@ import Link from "next/link";
 import { ArrowLeft } from "lucide-react";
 
 export const metadata: Metadata = {
-  title: "Mentions Légales — DJ Max",
+  title: "Mentions Légales — FredMusic",
 };
 
 export default function MentionsLegalesPage() {
@@ -29,7 +29,7 @@ export default function MentionsLegalesPage() {
               <br />
               Téléphone : 06 12 34 56 78
               <br />
-              Email : contact@djmax.fr
+              Email : contact@fredmusic.fr
               <br />
               SIRET : 123 456 789 00010 (fictif — POC)
             </p>
@@ -72,7 +72,7 @@ export default function MentionsLegalesPage() {
               uniquement pour répondre à vos demandes et ne sont jamais transmises à
               des tiers. Conformément au RGPD, vous disposez d&apos;un droit
               d&apos;accès, de rectification et de suppression de vos données en
-              contactant contact@djmax.fr.
+              contactant contact@fredmusic.fr.
             </p>
           </section>
 

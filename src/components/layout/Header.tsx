@@ -51,7 +51,7 @@ export default function Header() {
               <Music2 className="h-4 w-4 text-white" />
             </div>
             <span className="text-lg font-bold text-white">
-              DJ<span className="text-violet-400">Max</span>
+              Fred<span className="text-violet-400">Music</span>
             </span>
           </Link>
 

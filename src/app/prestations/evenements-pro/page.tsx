@@ -4,7 +4,7 @@ import PrestationPageLayout from "@/components/sections/PrestationPageLayout";
 import { notFound } from "next/navigation";
 
 export const metadata: Metadata = {
-  title: "Événements Professionnels — DJ Max",
+  title: "Événements Professionnels — FredMusic",
   description:
     "DJ professionnel pour soirées d'entreprise, galas, séminaires et événements corporate. Disponible partout en France. Devis gratuit.",
 };

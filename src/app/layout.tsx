@@ -10,12 +10,12 @@ const geistSans = Geist({
 });
 
 export const metadata: Metadata = {
-  title: "DJ Max — DJ Professionnel Paris & Île-de-France",
+  title: "FredMusic — DJ Professionnel Paris & Île-de-France",
   description:
     "DJ professionnel pour mariages, anniversaires, soirées privées et événements d'entreprise. Disponible en Île-de-France et toute la France. Devis gratuit.",
   keywords: ["DJ mariage", "DJ anniversaire", "DJ Paris", "DJ professionnel", "soirée privée", "DJ événement entreprise"],
   openGraph: {
-    title: "DJ Max — DJ Professionnel Paris & Île-de-France",
+    title: "FredMusic — DJ Professionnel Paris & Île-de-France",
     description: "DJ professionnel pour tous vos événements. Mariages, anniversaires, soirées, événements pro.",
     type: "website",
     locale: "fr_FR",

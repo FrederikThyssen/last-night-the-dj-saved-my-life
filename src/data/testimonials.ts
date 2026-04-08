@@ -16,7 +16,7 @@ export const testimonials: Testimonial[] = [
     date: "Juin 2024",
     rating: 5,
     comment:
-      "DJ Max a rendu notre mariage absolument magique. Il a su lire l'ambiance tout au long de la soirée et tout le monde était sur la piste. On l'a vu échanger avec nos invités pour ajuster sa playlist en temps réel. Merci infiniment !",
+      "FredMusic a rendu notre mariage absolument magique. Il a su lire l'ambiance tout au long de la soirée et tout le monde était sur la piste. On l'a vu échanger avec nos invités pour ajuster sa playlist en temps réel. Merci infiniment !",
     avatar: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=100&q=80",
   },
   {
@@ -46,7 +46,7 @@ export const testimonials: Testimonial[] = [
     date: "Novembre 2023",
     rating: 5,
     comment:
-      "DJ Max est intervenu pour notre soirée company annuelle. Très professionnel, ponctuel, tenue impeccable. La musique était parfaitement adaptée à notre événement corporate. Notre équipe a passé une soirée mémorable.",
+      "FredMusic est intervenu pour notre soirée company annuelle. Très professionnel, ponctuel, tenue impeccable. La musique était parfaitement adaptée à notre événement corporate. Notre équipe a passé une soirée mémorable.",
     avatar: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&q=80",
   },
   {
@@ -66,7 +66,7 @@ export const testimonials: Testimonial[] = [
     date: "Octobre 2023",
     rating: 5,
     comment:
-      "DJ Max a su parfaitement mélanger les musiques de notre époque avec les hits actuels pour que petits et grands dansent ensemble. Un vrai moment de partage familial. Bravo et merci !",
+      "FredMusic a su parfaitement mélanger les musiques de notre époque avec les hits actuels pour que petits et grands dansent ensemble. Un vrai moment de partage familial. Bravo et merci !",
     avatar: "https://images.unsplash.com/photo-1552058544-f2b08422138a?w=100&q=80",
   },
 ];

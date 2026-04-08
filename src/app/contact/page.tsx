@@ -4,9 +4,9 @@ import SectionTitle from "@/components/ui/SectionTitle";
 import { Phone, Mail, MapPin, Clock, Share2, Link2 } from "lucide-react";
 
 export const metadata: Metadata = {
-  title: "Contact & Devis Gratuit — DJ Max",
+  title: "Contact & Devis Gratuit — FredMusic",
   description:
-    "Contactez DJ Max pour obtenir un devis gratuit pour votre mariage, anniversaire ou événement. Réponse sous 24h.",
+    "Contactez FredMusic pour obtenir un devis gratuit pour votre mariage, anniversaire ou événement. Réponse sous 24h.",
 };
 
 const contactInfos = [
@@ -19,8 +19,8 @@ const contactInfos = [
   {
     icon: Mail,
     label: "Email",
-    value: "contact@djmax.fr",
-    href: "mailto:contact@djmax.fr",
+    value: "contact@fredmusic.fr",
+    href: "mailto:contact@fredmusic.fr",
   },
   {
     icon: MapPin,
@@ -93,14 +93,14 @@ export default function ContactPage() {
               {/* Socials */}
               <div>
                 <h3 className="text-sm font-semibold uppercase tracking-widest text-gray-500 mb-4">
-                  Suivez DJ Max
+                  Suivez FredMusic
                 </h3>
                 <div className="flex gap-3">
                   <a
                     href="https://instagram.com"
                     target="_blank"
                     rel="noopener noreferrer"
-                    aria-label="Instagram DJ Max"
+                    aria-label="Instagram FredMusic"
                     className="flex h-10 w-10 items-center justify-center rounded-lg border border-white/10 text-gray-400 hover:text-white hover:border-violet-500 hover:bg-violet-500/10 transition-all duration-200"
                   >
                     <Share2 className="h-5 w-5" />
@@ -109,7 +109,7 @@ export default function ContactPage() {
                     href="https://facebook.com"
                     target="_blank"
                     rel="noopener noreferrer"
-                    aria-label="Facebook DJ Max"
+                    aria-label="Facebook FredMusic"
                     className="flex h-10 w-10 items-center justify-center rounded-lg border border-white/10 text-gray-400 hover:text-white hover:border-violet-500 hover:bg-violet-500/10 transition-all duration-200"
                   >
                     <Link2 className="h-5 w-5" />

@@ -30,11 +30,11 @@ export default function Footer() {
                 <Music2 className="h-5 w-5 text-white" />
               </div>
               <span className="text-xl font-bold text-white">
-                DJ<span className="text-violet-400">Max</span>
+                Fred<span className="text-violet-400">Music</span>
               </span>
             </Link>
             <p className="text-sm text-gray-400 max-w-xs leading-relaxed">
-              DJ professionnel basé en Île-de-France. Mariages, anniversaires, soirées
+              DJ professionnel basé à Vis en artois. Mariages, anniversaires, soirées
               privées et événements d'entreprise. Disponible sur toute la France.
             </p>
             {/* Socials */}
@@ -43,7 +43,7 @@ export default function Footer() {
                 href="https://instagram.com"
                 target="_blank"
                 rel="noopener noreferrer"
-                aria-label="Instagram DJ Max (Voir sur Instagram)"
+                aria-label="Instagram FredMusic (Voir sur Instagram)"
                 className="flex h-9 w-9 items-center justify-center rounded-lg border border-white/10 text-gray-400 hover:text-white hover:border-violet-500 hover:bg-violet-500/10 transition-all duration-200"
               >
                 <Share2 className="h-4 w-4" />
@@ -52,7 +52,7 @@ export default function Footer() {
                 href="https://facebook.com"
                 target="_blank"
                 rel="noopener noreferrer"
-                aria-label="Facebook DJ Max (Voir sur Facebook)"
+                aria-label="Facebook FredMusic (Voir sur Facebook)"
                 className="flex h-9 w-9 items-center justify-center rounded-lg border border-white/10 text-gray-400 hover:text-white hover:border-violet-500 hover:bg-violet-500/10 transition-all duration-200"
               >
                 <Link2 className="h-4 w-4" />
@@ -108,13 +108,13 @@ export default function Footer() {
               </li>
               <li className="flex items-center gap-2 text-sm text-gray-400">
                 <Mail className="h-3.5 w-3.5 text-violet-400 flex-shrink-0" />
-                <a href="mailto:contact@djmax.fr" className="hover:text-violet-400 transition-colors">
-                  contact@djmax.fr
+                <a href="mailto:contact@fredmusic.fr" className="hover:text-violet-400 transition-colors">
+                  contact@fredmusic.fr
                 </a>
               </li>
               <li className="flex items-start gap-2 text-sm text-gray-400">
                 <MapPin className="h-3.5 w-3.5 text-violet-400 flex-shrink-0 mt-0.5" />
-                <span>Paris & Île-de-France</span>
+                <span>Haut de France</span>
               </li>
             </ul>
           </div>
@@ -123,7 +123,7 @@ export default function Footer() {
         {/* Bottom bar */}
         <div className="border-t border-white/10 py-6 flex flex-col sm:flex-row items-center justify-between gap-4">
           <p className="text-xs text-gray-600">
-            © {currentYear} DJ Max. Tous droits réservés.
+            © {currentYear} FredMusic. Tous droits réservés.
           </p>
           <div className="flex items-center gap-4 text-xs text-gray-600">
             <Link href="/mentions-legales" className="hover:text-gray-400 transition-colors">

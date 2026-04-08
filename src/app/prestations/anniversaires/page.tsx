@@ -4,7 +4,7 @@ import PrestationPageLayout from "@/components/sections/PrestationPageLayout";
 import { notFound } from "next/navigation";
 
 export const metadata: Metadata = {
-  title: "Anniversaires — DJ Max",
+  title: "Anniversaires — FredMusic",
   description:
     "DJ pour anniversaires en Île-de-France. 18 ans, 30 ans, 50 ans… Une fête à la hauteur de votre événement. Devis gratuit.",
 };
